@@ -13,6 +13,6 @@ $string['configallowcustomdescr'] = 'If set, in each instance allows additional 
 $string['configfooter'] = 'Footer';
 $string['configfooterdescr'] = 'If set, show as centered footer text below content and custom content. (No need to use if custom content is disabled)';
 //block settings strings
-$string['html_global_tbird_settings'] = 'Announcements block settings';
-$string['html_global_tbird:addinstance'] = 'Add a new Announcements block';
-$string['html_global_tbird:myaddinstance'] = 'Add a new Announcements block to My home';
+$string['announcements_tbird_settings'] = 'Announcements block settings';
+$string['announcements_tbird:addinstance'] = 'Add a new Announcements block';
+$string['announcements_tbird:myaddinstance'] = 'Add a new Announcements block to My home';
